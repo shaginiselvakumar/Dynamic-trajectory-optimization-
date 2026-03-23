@@ -368,6 +368,9 @@ Iteration:
 
 Convergence: ‖zₖ - zₖ₋₁‖ < ε
 ```
+## results 
+![Output 1](outputs/demo1_basic.png)
+![Output 2](outputs/demo2_ai_terrain.png)
 
 ---
 
